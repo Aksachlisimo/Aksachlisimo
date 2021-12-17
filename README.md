@@ -3,9 +3,9 @@
 - 🌱 I’m currently creating apps and projets to get a remotely job
 - 💞️ I’m looking to collaborate on some big app
 - 📫 How to reach me :
-**Instagram** : Click [here](https://www.instagram.com/simo_aksachli/) . 
-**Facebook** : Click [here](https://www.facebook.com/aksachliisimo/).
-**linkdedIn** : Click [here](https://www.linkedin.com/in/mohamed-mouhimine-4937ab227/).
+- **Instagram** : Click [here](https://www.instagram.com/simo_aksachli/) . 
+- **Facebook** : Click [here](https://www.facebook.com/aksachliisimo/).
+- **linkdedIn** : Click [here](https://www.linkedin.com/in/mohamed-mouhimine-4937ab227/).
 
 <!---
 Aksachlisimo/Aksachlisimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
