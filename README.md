@@ -2,7 +2,7 @@
 - 👀 I’m interested in the web developement 
 - 🌱 I’m currently creating apps and projets to get a remotely job
 - 💞️ I’m looking to collaborate on some big app
-- 📫 Feel free to contact me on socia media :
+- 📫 Feel free to contact me on social media :
 - **Instagram** : Click [here](https://www.instagram.com/simo_aksachli/) . 
 - **Facebook** : Click [here](https://www.facebook.com/aksachliisimo/).
 - **linkdedIn** : Click [here](https://www.linkedin.com/in/mohamed-mouhimine-4937ab227/).
